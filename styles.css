@@ -13,8 +13,7 @@ body,
 }
 
 body {
-  font-family: sans-serif;
-  background-color: #f9fbfd;
+  background-color: #333;
 }
 
 .wrapper {
@@ -27,7 +26,9 @@ header {
   text-align: center;
   padding: 20px;
   padding-top: 0px;
-  color: hsl(206, 17%, 28%);
+  color: #fff;
+  font-family: 'Fjalla One', sans-serif;
+  font-size: x-large;
 }
 
 .card {
@@ -35,11 +36,16 @@ header {
   border-radius: 5px;
   border-width: 1px;
   box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px 0px;
-  color: hsl(206, 17%, 28%);
+  color: #000;
   font-size: 18px;
   margin: 0 auto;
   max-width: 800px;
   padding: 30px 40px;
+}
+
+.card-header {
+  font-family: 'Cantarell', sans-serif;
+  text-align: center;
 }
 
 .card-header::after {
@@ -112,10 +118,11 @@ button[disabled] {
   text-align: center;
   margin-top: 10px;
   margin-bottom: 10px;
-  border: 2px dashed #c0c7cf;
+  border: 2px solid #000;
   border-radius: 6px;
   resize: none;
   overflow: hidden;
+  font-family: 'Cantarell', sans-serif;
 }
 
 @media (max-width: 690px) {
