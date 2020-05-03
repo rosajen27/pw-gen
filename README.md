@@ -5,7 +5,7 @@ This is an application that generates a random password based on user-selected c
 
 
 
-User Story
+<bold>User Story</bold>
 
 AS AN employee with access to sensitive data
 
