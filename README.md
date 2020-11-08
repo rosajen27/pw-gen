@@ -6,7 +6,7 @@ A web application that generates a random password based on user-selected criter
 
 Deployed Website: https://rosajen27.github.io/pw-gen/
 
-![pw-gen](./Assets/Capture.png)
+![pw-gen](./Assets/demo.png)
 
 ## Built With
 
