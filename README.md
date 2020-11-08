@@ -26,7 +26,7 @@ Deployed Website: https://rosajen27.github.io/pw-gen/
 
 This project is licensed under the MIT License.
 
-Copyright (c) 2020 Jennifer Rosa
+Copyright (c) 2020 Jennifer Rosa 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
