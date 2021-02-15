@@ -1,22 +1,25 @@
-# Password Generator
+# 🔐 Password Generator
 
-A web application that generates a random password based on user-selected criteria. This app will run in the browser and feature dynamically updated HTML and CSS powered by JavaScript code. It also features a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes.
+A web application that generates a random password based on user-selected criteria.
+
 
 ## Deployment
 
-Deployed Website: https://rosajen27.github.io/pw-gen/
+Demo: https://rosajen27.github.io/pw-gen/
 
 ![pw-gen](./Assets/demo.png)
 
+
 ## Built With
 
-  - HTML
-  - CSS
-  - JavaScript
+  * HTML
+  * CSS
+  * JavaScript
+
 
 ## Authors
 
-  - **Jennifer Rosa**
+  * **Jennifer Rosa**
     [Rosajen27](https://rosajen27.github.io/)
 
 
@@ -26,7 +29,7 @@ Deployed Website: https://rosajen27.github.io/pw-gen/
 
 This project is licensed under the MIT License.
 
-Copyright (c) 2020 Jennifer Rosa 
+Copyright (c) 2021 Jennifer Rosa 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -48,4 +51,4 @@ SOFTWARE.
 
 ## Acknowledgments
 
-  - Trilogy Education Services
+  * Trilogy Education Services
