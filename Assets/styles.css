@@ -13,7 +13,8 @@ body,
 }
 
 body {
-  background-color: #333;
+  background-color: #dfe6e9;
+  font-family: 'Poppins', sans-serif;
 }
 
 .wrapper {
@@ -26,8 +27,8 @@ header {
   text-align: center;
   padding: 20px;
   padding-top: 0px;
-  color: #fff;
-  font-family: 'Fjalla One', sans-serif;
+  color: #1f1f1f;
+  font-family: 'Poppins', sans-serif;
   font-size: x-large;
 }
 
@@ -36,7 +37,7 @@ header {
   border-radius: 5px;
   border-width: 1px;
   box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px 0px;
-  color: #000;
+  color: #1f1f1f;
   font-size: 18px;
   margin: 0 auto;
   max-width: 800px;
@@ -44,7 +45,6 @@ header {
 }
 
 .card-header {
-  font-family: 'Cantarell', sans-serif;
   text-align: center;
 }
 
@@ -58,6 +58,10 @@ header {
 
 .card-body {
   min-height: 100px;
+}
+
+.card-body textarea {
+  font-family: 'Poppins', sans-serif;
 }
 
 .card-footer {
@@ -92,6 +96,7 @@ header {
   padding: 14px 34px;
   text-align: center;
   cursor: pointer;
+  font-family: 'Poppins', sans-serif;
 }
 
 button[disabled] {
@@ -118,11 +123,15 @@ button[disabled] {
   text-align: center;
   margin-top: 10px;
   margin-bottom: 10px;
-  border: 2px solid #000;
+  border: 2px solid #1f1f1f;
   border-radius: 6px;
   resize: none;
   overflow: hidden;
-  font-family: 'Cantarell', sans-serif;
+  font-family: 'Poppins', sans-serif;
+}
+
+.footer {
+  text-align: center;
 }
 
 @media (max-width: 690px) {
